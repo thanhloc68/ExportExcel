@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "azPvLTI4HG+Th048Raip5lZ2ARUo6tbSRUq8arWuxfwulUxi0ojf7bdrweW2DBDL6m4L7PRJs82aMfw0+pEYRg==",
+  "success": true,
+  "projectFilePath": "D:\\NguyenThanhLoc\\ProjectFabico\\exportExcel\\exportExcel\\exportExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
